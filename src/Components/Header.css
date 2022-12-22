@@ -1,0 +1,18 @@
+.header-component{
+    height: 500px;
+    box-sizing: border-box;
+    background-image: url("https://www.shutterstock.com/image-photo/happy-businesspeople-laughing-while-collaborating-on-2159023891");
+    background-size: cover;
+    border: 2px solid transparent;
+    height: 120px;
+    margin-left: 90px;
+    margin-top: 120px;
+    padding-left: 90px;
+    color: #fff;
+  
+    text-transform: uppercase;
+  }
+  .paragraph{
+    color: blue;
+    font-size: 20px;
+  }

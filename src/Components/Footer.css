@@ -1,0 +1,12 @@
+.footer-container{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 50px 0px;
+    justify-content: space-between;
+}
+
+.hhh1{
+    width: 40%;
+}

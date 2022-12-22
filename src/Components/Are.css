@@ -1,0 +1,8 @@
+.who-container{
+    display: flex;
+    padding: 50px 100px;
+    justify-content: space-between;
+  }
+  .text-container{
+    width: 70%;
+  }

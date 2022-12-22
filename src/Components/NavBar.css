@@ -1,0 +1,21 @@
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px;
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding: 0px 100px;
+}
+
+.website-logo {
+    width: 190px;
+  }
+
+.nav-list{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    width: 60%;
+}
+

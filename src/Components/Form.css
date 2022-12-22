@@ -1,0 +1,37 @@
+.form-container{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid darkgray;
+    padding: 20px 40px;
+    box-sizing: border-box;
+    width: 60%;
+    margin: auto;
+    border-radius: 15px;
+  }
+  .info-container{
+    margin: auto;
+  }
+  .input-container{
+  width: 40%;;
+  }
+  .input-button{
+  width: 100%;
+  padding: 10px 0px;
+  font-size: 1rem;
+  background-color: rgb(44, 44, 116);
+  color: white;
+  border-radius: 5px;
+  }
+  input{
+    width: 100%;
+    height: 30px;
+    border: 1px solid black;
+    padding-left: 20px;
+    box-sizing: border-box;
+    border-radius: 5px;
+  }
+  .bar{
+    height: 80px;
+    width: 2px;
+    background-color: black;
+  }
